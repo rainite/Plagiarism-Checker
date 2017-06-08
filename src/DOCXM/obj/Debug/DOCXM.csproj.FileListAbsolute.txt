@@ -1,0 +1,16 @@
+G:\DocSimilar\DOCXM\DOCXM\bin\Debug\DOCXM.exe.config
+G:\DocSimilar\DOCXM\DOCXM\bin\Debug\DOCXM.exe
+G:\DocSimilar\DOCXM\DOCXM\bin\Debug\DOCXM.pdb
+G:\DocSimilar\DOCXM\DOCXM\bin\Debug\Aspose.Words.dll
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.csprojResolveAssemblyReference.cache
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.DealProgress.resources
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.DOCXM.resources
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.KEYPair.resources
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.Properties.Resources.resources
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.SubFind.resources
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.csproj.GenerateResource.Cache
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.exe
+G:\DocSimilar\DOCXM\DOCXM\obj\Debug\DOCXM.pdb
+C:\Users\Celestial\Desktop\DocSimilarity Checker\源码\DOCXM\bin\Debug\DOCXM.exe.config
+C:\Users\Celestial\Desktop\DocSimilarity Checker\源码\DOCXM\obj\Debug\DOCXM.exe
+C:\Users\Celestial\Desktop\DocSimilarity Checker\源码\DOCXM\obj\Debug\DOCXM.pdb
